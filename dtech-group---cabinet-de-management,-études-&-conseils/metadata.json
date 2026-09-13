@@ -1,0 +1,6 @@
+{
+  "name": "DTECH GROUP - Cabinet de Management, Études & Formations Agréées",
+  "description": "Plateforme officielle de DTECH GROUP : Formations certifiantes d'État, portail d'admission, validation académique et vérification des diplômes à Lomé et Kara (Togo).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
